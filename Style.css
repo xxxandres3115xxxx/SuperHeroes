@@ -67,7 +67,17 @@ text-align: center;
     font-size: 50px; 
     text-align: center; 
 }
-.gallery1{
-
+.movies{
+    font-family: 'Redressed', cursive;
+    padding: 20px; 
+    font-size: 50px; 
+    text-align: center; 
     
+}
+.titulos_peliculas
+{
+    font-family: 'Redressed', cursive;
+    padding: 20px; 
+    font-size: 20px; 
+    text-align: center;
 }
